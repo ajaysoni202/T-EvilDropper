@@ -1,4 +1,4 @@
- import requests
+import requests
 
 
 BOT_TOKEN = "Enter_your_Bot_token"
